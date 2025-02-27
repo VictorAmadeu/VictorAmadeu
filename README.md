@@ -1,12 +1,77 @@
-- 👋 Hi, I’m @VictorAmadeu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 ¡Hola! Soy Victor Amadeu Braga Heleno
 
-<!---
-VictorAmadeu/VictorAmadeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Desarrollador de Aplicaciones Web | Full Stack Developer
+
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** con experiencia en el desarrollo de proyectos completos utilizando tecnologías modernas como **HTML5, CSS3, JavaScript, Vue.js, PHP, SQL, Laravel y Node.js**.
+
+Me apasiona la tecnología y disfruto creando soluciones eficientes y bien estructuradas. Actualmente, estoy desarrollando mi portafolio profesional con una variedad de proyectos que reflejan mis habilidades en el desarrollo web.
+
+---
+
+## 🚀 Tecnologías y Herramientas
+
+### **Frontend:**
+- HTML5, CSS3, JavaScript (ES6+)
+- Vue.js (Vue Router, Vuex)
+- Bootstrap (CDN)
+- React (en desarrollo)
+
+### **Backend:**
+- PHP, MySQL
+- Laravel (en proceso de aprendizaje)
+- Node.js, Express.js
+
+### **Base de Datos:**
+- MySQL, MariaDB
+- Eloquent ORM (Laravel)
+
+### **Herramientas y DevOps:**
+- Git & GitHub
+- Docker (en proceso de integración con MySQL)
+- XAMPP, MySQL Workbench
+- VSCode (Windows 11)
+
+---
+
+## 📂 Proyectos Destacados
+
+### **1️⃣ Blog Responsivo con Sistema de Comentarios**
+- Creado con **PHP, MySQL, Bootstrap y JavaScript**.
+- Permite a los usuarios escribir y visualizar artículos.
+- Implementación de comentarios dinámicos y diseño responsivo.
+
+### **2️⃣ Portafolio Web con Vue.js y Node.js**
+- Proyecto en desarrollo para mostrar mis trabajos y certificaciones.
+- Utiliza **Vue.js en el frontend y Node.js en el backend**.
+- Implementación de un formulario de contacto mejorado y efectos visuales modernos.
+
+### **3️⃣ E-commerce con Carrito de Compras** *(En desarrollo)*
+- Creación de un sistema de tienda en línea utilizando **Vue.js y Vue Router**.
+- Gestión de productos, carrito y proceso de pago.
+
+### **4️⃣ Gestor de Presupuesto Personal con Laravel** *(En desarrollo)*
+- Aplicación para gestionar ingresos y gastos personales.
+- Creada con **Laravel y MySQL**, sin gráficos para mejorar la simplicidad y velocidad.
+
+---
+
+## 📜 Certificaciones
+
+✅ **Curso de MySQL (40 horas)** - Curso em Vídeo *(Expira en sept. 2024)*  
+✅ **Java Básico (40 horas)** - Curso em Vídeo *(Expira en jun. 2024)*  
+✅ **HTML5 y CSS3 (40 horas)** - Curso em Vídeo *(Expirado en sept. 2023)*  
+✅ **JavaScript (40 horas)** - Curso em Vídeo *(Expirado en ago. 2023)*  
+✅ **Inteligencia Artificial (40 horas)** - Curso em Vídeo *(Finaliza en feb. 2025)*  
+✅ **Conceptos de Programación - OpenBootcamp** *(Expedido en abr. 2023)*  
+✅ **Intro to Programming - Rocketseat** *(Expedido en mar. 2023)*  
+
+---
+
+## 📫 Contacto
+- 📧 **Email:** [Victoremmadrid@outlook.com](#)
+- 🔗 **LinkedIn:** [www.linkedin.com/in/victor-amadeu-braga-heleno](#)
+- 🏆 **GitHub:** [https://github.com/VictorAmadeu](#) 
+
+---
+
+💡 *Siempre estoy abierto a nuevas oportunidades y colaboraciones en proyectos interesantes.* ¡No dudes en contactarme!
