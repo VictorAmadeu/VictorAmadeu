@@ -57,13 +57,13 @@ Me apasiona la tecnología y disfruto creando soluciones eficientes y bien estru
 
 ## 📜 Certificaciones
 
-✅ **Curso de MySQL (40 horas)** - Curso em Vídeo *(Expira en sept. 2024)*  
-✅ **Java Básico (40 horas)** - Curso em Vídeo *(Expira en jun. 2024)*  
-✅ **HTML5 y CSS3 (40 horas)** - Curso em Vídeo *(Expirado en sept. 2023)*  
-✅ **JavaScript (40 horas)** - Curso em Vídeo *(Expirado en ago. 2023)*  
-✅ **Inteligencia Artificial (40 horas)** - Curso em Vídeo *(Finaliza en feb. 2025)*  
-✅ **Conceptos de Programación - OpenBootcamp** *(Expedido en abr. 2023)*  
-✅ **Intro to Programming - Rocketseat** *(Expedido en mar. 2023)*  
+✅ **Curso de MySQL (40 horas)** - Curso em Vídeo   
+✅ **Java Básico (40 horas)** - Curso em Vídeo   
+✅ **HTML5 y CSS3 (40 horas)** - Curso em Vídeo   
+✅ **JavaScript (40 horas)** - Curso em Vídeo   
+✅ **Inteligencia Artificial (40 horas)** - Curso em Vídeo   
+✅ **Conceptos de Programación - OpenBootcamp**   
+✅ **Intro to Programming - Rocketseat**   
 
 ---
 
