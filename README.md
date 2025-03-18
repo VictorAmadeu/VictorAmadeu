@@ -57,11 +57,11 @@ Me apasiona la tecnología y disfruto creando soluciones eficientes y bien estru
 
 ## 📜 Certificaciones
 
-✅ **Curso de MySQL (40 horas)** - Curso em Vídeo   
-✅ **Java Básico (40 horas)** - Curso em Vídeo   
-✅ **HTML5 y CSS3 (40 horas)** - Curso em Vídeo   
-✅ **JavaScript (40 horas)** - Curso em Vídeo   
-✅ **Inteligencia Artificial (40 horas)** - Curso em Vídeo   
+✅ **Curso de MySQL (40 horas)**   
+✅ **Java Básico (40 horas)**    
+✅ **HTML5 y CSS3 (40 horas)**  
+✅ **JavaScript (40 horas)**   
+✅ **Inteligencia Artificial (40 horas)**   
 ✅ **Conceptos de Programación - OpenBootcamp**   
 ✅ **Intro to Programming - Rocketseat**   
 
