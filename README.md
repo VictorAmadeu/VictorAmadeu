@@ -29,6 +29,7 @@ He obtenido certificados de plataformas reconocidas como *Curso en Vídeo*, *Roc
 * 🎓 **JavaScript (40h)** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
 * 🎓 **Java Básico (40h)** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
 * 🎓 **MySQL (40h)** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
+* 🎓 **PHP (40h)** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
 * 🎓 **Inteligencia Artificial (40h)** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
 * 🎓 **Inglés para Informática** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
 * 🎓 **Conceptos de la Programación (OpenBootcamp)** – Plataforma OpenBootcamp. [Certificado](https://openbootcamp.com/certificados)
