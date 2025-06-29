@@ -36,6 +36,8 @@ He obtenido certificados de plataformas reconocidas como *Curso en Vídeo*, *Roc
 * 🎓 **Intro to Programming (Rocketseat)** – Rocketseat (programa gratuito de iniciación). [Certificado](https://www.rocketseat.com.br/)
 * 🎓 **Curso online IA Responsable y Prompt Engineering (Founderz)** – Founderz (diseño de interfaces). [Certificado](https://founderz.com)
 * 🎓 **Algoritmo informático (40h)** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
+* 🎓 **Git y GitHub (20h)** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
+
 
 
 
