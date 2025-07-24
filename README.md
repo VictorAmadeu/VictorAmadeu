@@ -37,7 +37,8 @@ He obtenido certificados de plataformas reconocidas como *Curso en Vídeo*, *Roc
 * 🎓 **Curso online IA Responsable y Prompt Engineering (Founderz)** – Founderz (diseño de interfaces). [Certificado](https://founderz.com)
 * 🎓 **Algoritmo informático (40h)** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
 * 🎓 **Git y GitHub (20h)** – Curso en Vídeo (Gustavo Guanabara). [Certificado](https://www.cursoemvideo.com)
-
+* 🎓 **Curso de Introducción a Node.js** – Simplilearn. [Certificado](https://www.simplilearn.com)
+* 🎓 **Curso de React** – ScholarHat. [Certificado](https://www.scholarhat.com)
 
 
 
