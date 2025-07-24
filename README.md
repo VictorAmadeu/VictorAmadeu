@@ -49,6 +49,6 @@ He obtenido certificados de plataformas reconocidas como *Curso en Vídeo*, *Roc
 * 🔗 **LinkedIn:** [www.linkedin.com/in/victor-amadeu-braga-heleno]
 * 🌐 **Portafolio web:** [https://victoramadeu.github.io/portafolio-vue/]
 * 👨🏿‍💻 **Notion Portafolio:**
-[https://husky-volcano-c5a.notion.site/Victor-Amadeu-Braga-Heleno-233f4e40dfb180ef8b86ecb5e8770a69]
+  [https://victoramadeuportafolio.notion.site/Victor-Amadeu-Braga-Heleno-233f4e40dfb180ef8b86ecb5e8770a69?pvs=73]
 
 Siempre estoy disponible para colaborar en proyectos interesantes o atender cualquier consulta. ¡Conectemos!
