@@ -11,12 +11,7 @@ Desarrollador web junior con formación en Despliegue de Aplicaciones Web - DAW 
 
 ## 🚀 Proyectos Destacados
 
-* ⭐ **[Origem Açaí](https://github.com/VictorAmadeu/origem-acai)** – Sistema de gestión para tienda de açaí desarrollado con Java, Spring Boot, JavaFX y MySQL.
 * 🚀 **[Portafolio Vue](https://github.com/VictorAmadeu/portafolio-vue)** – Portafolio web profesional desarrollado con Vue.js (frontend) y Node.js/Express (backend). Incluye diseño moderno, formulario de contacto funcional y pruebas con Postman.
-* 📝 **[Blog Responsivo](https://github.com/VictorAmadeu/blog-responsivo)** – Proyecto de blog con sistema de comentarios, desarrollado en PHP y MySQL, con diseño adaptativo.
-* 💼 **[Gestión de Empleados](https://github.com/VictorAmadeu/gestion-empleados)** – Aplicación full-stack con Vue.js en el frontend y Spring Boot en el backend. Permite agregar, editar y listar empleados mediante una API REST y utiliza Bootstrap.
-* 💰 **[Gestor Presupuesto Familiar](https://github.com/VictorAmadeu/gestor-presupuesto-familiar)** – Herramienta web en PHP para gestionar ingresos y gastos del hogar, con generación de reportes integrados.
-* 📦 **[Inventario de Productos](https://github.com/VictorAmadeu/inventario-productos)** – Aplicación web para gestión de inventario con HTML5, JavaScript (ES6+), Tailwind CSS, JSDoc y Jest.
 * 🎲 **[Minijuego de Números](https://github.com/VictorAmadeu/minijuego-numeros-aleatorios)** – Juego sencillo en HTML, CSS y JavaScript que genera números aleatorios para adivinanza interactiva.
 * 📚 **[Repositorio de Git (CESUR)](https://github.com/VictorAmadeu/REPOSITORIO_GIT_CESUR)** – Repositorio de pruebas y ejercicios de Git creado durante la formación en CESUR.
 * 🔧 **[Configuración de perfil](https://github.com/VictorAmadeu/VictorAmadeu)** – Archivos de configuración de mi propio perfil de GitHub (README y ajustes).
