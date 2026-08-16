@@ -15,8 +15,6 @@ Desarrollador web junior con formación en Despliegue de Aplicaciones Web - DAW 
 * 👗 **[Media Kit Jhulyana](https://github.com/VictorAmadeu/media-kit-jhulyana.git)** - Media Kit interactivo para Jhulyana Ferreira, desarrollado como una SPA con React y Vite. El proyecto está orientado a presentar de forma visual y profesional la identidad de una creadora de contenido, sus colaboraciones, métricas y paquetes para marcas. Incluye diseño responsive, componentes reutilizables, animaciones suaves y un formulario conectado a Supabase para recibir propuestas de colaboración de forma estructurada.
 * 🤖 **[Victor Amadeu – AI Blog](https://github.com/VictorAmadeu/victorai-blog.git)** - Blog técnico sobre Inteligencia Artificial y desarrollo web, creado para documentar aprendizajes, compartir contenido técnico y seguir profundizando en tecnologías modernas. Está desarrollado con Angular 19, TypeScript, Bootstrap 5 y Supabase, e incluye secciones de inicio, artículos, categorías y sobre mí, además de una newsletter conectada a base de datos y despliegue continuo en Vercel.
 * 🎲 **[Minijuego de Números](https://github.com/VictorAmadeu/minijuego-numeros-aleatorios)** – Juego sencillo en HTML, CSS y JavaScript que genera números aleatorios para adivinanza interactiva.
-* 📚 **[Repositorio de Git (CESUR)](https://github.com/VictorAmadeu/REPOSITORIO_GIT_CESUR)** – Repositorio de pruebas y ejercicios de Git creado durante la formación en CESUR.
-* 🔧 **[Configuración de perfil](https://github.com/VictorAmadeu/VictorAmadeu)** – Archivos de configuración de mi propio perfil de GitHub (README y ajustes).
 
 ## 📜 Certificaciones
 
